@@ -1,0 +1,5 @@
+Favourite_film: “Existenz”;
+Favourite_TV_series: “The Sopranos”;
+Favourte_food: mama's homemade food;
+Favourite_season: summer;
+Desired country to visit: State of Maine, the USA
