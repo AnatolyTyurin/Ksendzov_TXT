@@ -1,0 +1,4 @@
+Person: Tyurin Anatoly;
+Age: 35;
+Pets: no pets;
+Desired salary: USD 1000.
