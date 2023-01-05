@@ -1,1 +1,15 @@
-
+   Bug N: 1
+   Title: Lesson start screen image fails to load when open the application from the background and return from Lesson module
+   STR:
+    1. Open the application
+    2. Tap any item lesson
+    3. Tap [Start]
+    4. Send the application to the background
+    5. Open the application
+    6. Tap return button (or swipe right-to-left / left-to-right)
+   AR: Lesson start screen image fails to load
+   ER: Lesson start screen image is displayed
+   Environment: Xiaomi Mi9, Android 10
+   Severity: Major
+   Priority: N/A
+   Author: Anatoly Tyurin
